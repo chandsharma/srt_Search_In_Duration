@@ -8,9 +8,7 @@
 # Usage
 first argument = answer_keyword.srt file
 
-second argument = 0 for exact matching (case 1)
-
-second argument = 1 for related matching
+second argument = 0 for exact matching (case 1) / second argument = 1 for related matching (case 2)
 
 case 1
 > python3 keywordfinder.py answerkey.srt 0 
